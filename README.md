@@ -3,6 +3,7 @@
 ### Some blogs/videos/projects
 
 - [Anomstack](https://github.com/andrewm4894/anomstack) - (WIP) Painless open source anomaly detection for business metrics.
+- [OpenAssistant Conversations -- Democratizing Large Language Model Alignment](https://arxiv.org/abs/2304.07327) - Paper stemming from [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant), a project i contribute to.
 - [How Netdata's ML-based Anomaly Detection Works](https://blog.netdata.cloud/how-netdatas-ml-based-anomaly-detection-works/) ([YouTube](https://youtu.be/L1xleckyuDQ?si=XJRbK5tC9zxjOWkO)) - Blog post (and video) on how anomaly detection system works at Netdata.
 - [Netdata ML Blogs](https://blog.netdata.cloud/tags/machine-learning/) - ML stuff we built at [Netdata](https://github.com/netdata/netdata).
 - [Painless Anomaly Detection with Apache Airflow](https://medium.com/apache-airflow/painless-anomaly-detection-with-apache-airflow-dfd83f320a9e) - Airflow provider i build for anomaly detection.
