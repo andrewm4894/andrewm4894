@@ -2,6 +2,7 @@
 
 ### Some blogs/videos/projects
 
+- [Anomstack](https://github.com/andrewm4894/anomstack) - (WIP) Painless open source anomaly detection for business metrics.
 - [How Netdata's ML-based Anomaly Detection Works](https://blog.netdata.cloud/how-netdatas-ml-based-anomaly-detection-works/) ([YouTube](https://youtu.be/L1xleckyuDQ?si=XJRbK5tC9zxjOWkO)) - Blog post (and video) on how anomaly detection system works at Netdata.
 - [Netdata ML Blogs](https://blog.netdata.cloud/tags/machine-learning/) - ML stuff we built at [Netdata](https://github.com/netdata/netdata).
 - [Painless Anomaly Detection with Apache Airflow](https://medium.com/apache-airflow/painless-anomaly-detection-with-apache-airflow-dfd83f320a9e) - Airflow provider i build for anomaly detection.
@@ -11,4 +12,3 @@
 - [CNCF Webinar](https://www.youtube.com/live/pI-MUupmD64?si=KLKTIRDYXphEfPi8) - A CNCF webinar i did on Netdata's ML-based anomaly detection.
 - [Open Source Project: Airflow Anomaly Detection Provider](https://github.com/andrewm4894/airflow-provider-anomaly-detection) - Link to the repo for the Airflow provider i built and maintain for anomaly detection.
 - [Netdata ML YouTube Playlist](https://youtube.com/playlist?list=PL-P-gAHfL2KPeUcCKmNHXC-LX-FfdO43j&si=bgOW8oxvvgtOp2Fa) - Some ML videos i made for Netdata.
-- [Anomstack](https://github.com/andrewm4894/anomstack) - (WIP) Painless open source anomaly detection for business metrics.
