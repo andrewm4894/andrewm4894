@@ -3,6 +3,7 @@
 ### Some blogs/videos/projects
 
 - [Anomstack](https://github.com/andrewm4894/anomstack) - (WIP) Painless open source anomaly detection for business metrics.
+- [The future of machine learning and AI panel discussion](https://www.youtube.com/watch?v=nzrOzqz8B3U) - Conference panel discussion around ML/AI.
 - [10 Practical ML Use Cases in Observability](https://youtu.be/nX32fWot3XA) - A conference talk i gave a little while back.
 - [netdata-assistant-chat](https://github.com/andrewm4894/netdata-assistant-chat/tree/try-use-pinecone-index) - (WIP) Little RAG app using LlamaIndex + Pinecone on `netdata/learn` and `netdata/blog` docs.
 - [OpenAssistant Conversations -- Democratizing Large Language Model Alignment](https://arxiv.org/abs/2304.07327) - Paper stemming from [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant), a project i contribute to.
