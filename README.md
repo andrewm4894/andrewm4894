@@ -16,3 +16,5 @@
 - [CNCF Webinar](https://www.youtube.com/live/pI-MUupmD64?si=KLKTIRDYXphEfPi8) - A CNCF webinar i did on Netdata's ML-based anomaly detection.
 - [Open Source Project: Airflow Anomaly Detection Provider](https://github.com/andrewm4894/airflow-provider-anomaly-detection) - Link to the repo for the Airflow provider i built and maintain for anomaly detection.
 - [Netdata ML YouTube Playlist](https://youtube.com/playlist?list=PL-P-gAHfL2KPeUcCKmNHXC-LX-FfdO43j&si=bgOW8oxvvgtOp2Fa) - Some ML videos i made for Netdata.
+
+![](https://hit.yhype.me/github/profile?user_id=2178292)
