@@ -2,7 +2,8 @@
 
 ### Some blogs/videos/projects
 
-- [Anomstack](https://github.com/andrewm4894/anomstack) - (WIP) Painless open source anomaly detection for business metrics.
+- [Anomstack Overview Video](https://youtu.be/wFxcQW0M9aM?si=CXhBuZQzxgf269GT) - YouTube video on Dagster channel walking though [Anomstack](https://github.com/andrewm4894/anomstack).
+- [Anomstack](https://github.com/andrewm4894/anomstack) - Painless open source anomaly detection for your metrics 📈📉🚀
 - [The future of machine learning and AI panel discussion](https://www.youtube.com/watch?v=nzrOzqz8B3U) - Conference panel discussion around ML/AI.
 - [10 Practical ML Use Cases in Observability](https://youtu.be/m7V8cuU58-E) - A conference talk i gave a little while back.
 - [netdata-assistant-chat](https://github.com/andrewm4894/netdata-assistant-chat/tree/try-use-pinecone-index) - (WIP) Little RAG app using LlamaIndex + Pinecone on `netdata/learn` and `netdata/blog` docs.
