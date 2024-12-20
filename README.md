@@ -2,7 +2,7 @@
 
 ### Some blogs/videos/projects
 
-- [andys-daily-factoids](https://github.com/andrewm4894/andys-daily-factoids) - fun little website im using to learn JavaScript...and interesting facts! andys-daily-factoids.com
+- [andys-daily-factoids](https://github.com/andrewm4894/andys-daily-factoids) - fun little website im using to learn JavaScript...and interesting facts! [andys-daily-factoids.com](https://andys-daily-factoids.com/)
 - [Anomstack Overview Video](https://youtu.be/wFxcQW0M9aM?si=CXhBuZQzxgf269GT) - YouTube video on Dagster channel walking though [Anomstack](https://github.com/andrewm4894/anomstack).
 - [Anomstack](https://github.com/andrewm4894/anomstack) - Painless open source anomaly detection for your metrics 📈📉🚀
 - [The future of machine learning and AI panel discussion](https://www.youtube.com/watch?v=nzrOzqz8B3U) - Conference panel discussion around ML/AI.
