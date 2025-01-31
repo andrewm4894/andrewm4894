@@ -14,6 +14,7 @@
 - [Netdata ML Blogs](https://blog.netdata.cloud/tags/machine-learning/) - ML stuff we built at [Netdata](https://github.com/netdata/netdata).
 - [Painless Anomaly Detection with Apache Airflow](https://medium.com/apache-airflow/painless-anomaly-detection-with-apache-airflow-dfd83f320a9e) - Airflow provider i maintain for anomaly detection.
 - [Stripe Webhook + GCP Functions Framework (Python)](https://andrewm4894.com/2022/12/22/stripe-webhook-gcp-functions-framework-python/) - A blog post on how to use the GCP Functions Framework to build a webhook for Stripe.
+- [Netdata ML App](https://github.com/andrewm4894/netdata-ml-app) - A little POC app for various ML related mini apps on top of Netdata data. e.g time series clustering, metric similarity and more...
 - [Netdata Pandas Collector](https://blog.netdata.cloud/pandas-python/) - A Pandas collector i built for Netdata.
 - [Some sort-of livecoding](https://andrewm4894.com/2022/10/15/some-sort-of-livecoding/) - Bit of a Youtube video on some "livecoding" i did for a Netdata collector.
 - [CNCF Webinar](https://www.youtube.com/live/pI-MUupmD64?si=KLKTIRDYXphEfPi8) - A CNCF webinar i did on Netdata's ML-based anomaly detection.
