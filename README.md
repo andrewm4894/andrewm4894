@@ -3,6 +3,7 @@
 ### Some blogs/videos/projects
 
 - [plot-agent](https://github.com/andrewm4894/plot-agent) - langchain agent for df to plotly via text/chat. so glad i never learned matplotlib!
+- [andys-daily-riddle.com](https://andys-daily-riddle.com/) - vibe coded (with Replit) daily riddle site.
 - [anomaly-agent](https://github.com/andrewm4894/anomaly-agent) - a python package to use a langchain agent for anomaly detection.
 - [netdata-llm-agent](https://github.com/andrewm4894/netdata-llm-agent) - a Langchain Agent for chatting with your Netdata servers.
 - [andys-daily-factoids](https://github.com/andrewm4894/andys-daily-factoids) - fun little website im using to learn JavaScript...and interesting facts! [andys-daily-factoids.com](https://andys-daily-factoids.com/)
