@@ -1,4 +1,4 @@
-[andrewm4894.com](https://andrewm4894.com/) | [LinkedIn](https://www.linkedin.com/in/andrewm4894/) | [Twitter](https://twitter.com/andrewm4894) | [CV](https://drive.google.com/file/d/12FyGvY5-3SyAJxryg6OFQ-fn1htieUeh/view?usp=sharing)
+[andrewm4894.com](https://andrewm4894.com/) | [LinkedIn](https://www.linkedin.com/in/andrewm4894/) | [Twitter](https://twitter.com/andrewm4894) | [CV](https://drive.google.com/file/d/1yrmH9Vw8p_ItovocBERCK3HUWtwfwHMT/view?usp=sharing)
 
 ### Some blogs/videos/projects
 
