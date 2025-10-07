@@ -2,6 +2,7 @@
 
 ### Some blogs/videos/projects
 
+- [repo-stalker](https://github.com/andrewm4894/repo-stalker) - [repo-stalker.com](http://repo-stalker.com/) - Loveable based vibe app for lurking on repos because GitHub search/chat so bad and got fed up waiting.
 - [plot-agent](https://github.com/andrewm4894/plot-agent) - langchain agent for df to plotly via text/chat. so glad i never learned matplotlib!
 - [andys-daily-riddle.com](https://andys-daily-riddle.com/) - vibe coded (with Replit) daily riddle site.
 - [anomaly-agent](https://github.com/andrewm4894/anomaly-agent) - a python package to use a langchain agent for anomaly detection.
