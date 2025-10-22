@@ -2,6 +2,7 @@
 
 ### Some blogs/videos/projects
 
+- [PostHog/claude-code-share-plugin](https://github.com/PostHog/claude-code-share-plugin) - A claude code [plugin](https://docs.claude.com/en/docs/claude-code/plugins) that adds a `/share` comand to push your current session to a nice .md file in a repo so you can share it with someone. 
 - [repo-stalker](https://github.com/andrewm4894/repo-stalker) - [repo-stalker.com](http://repo-stalker.com/) - Loveable app for lurking on repos because GitHub search/chat so bad and got fed up waiting.
 - [plot-agent](https://github.com/andrewm4894/plot-agent) - langchain agent for df to plotly via text/chat. so glad i never learned matplotlib!
 - [andys-daily-riddle.com](https://andys-daily-riddle.com/) - vibe coded (with Replit) daily riddle site.
