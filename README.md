@@ -2,6 +2,7 @@
 
 ### Some blogs/videos/projects
 
+- [posthog-dev-pulumi](https://github.com/andrewm4894/posthog-dev-pulumi) - Pulumi dev vm setup for PostHog dev stuff.
 - [llm-council](https://github.com/andrewm4894/llm-council/tree/dev) - My fork, deployed here - https://llm-council-uc3k.onrender.com/ - of the [masters](https://github.com/karpathy/llm-council) llm-council app.
 - [PostHog/claude-code-share-plugin](https://github.com/PostHog/claude-code-share-plugin) - A claude code [plugin](https://docs.claude.com/en/docs/claude-code/plugins) that adds a `/share` comand to push your current session to a nice .md file in a repo so you can share it with someone. 
 - [repo-stalker](https://github.com/andrewm4894/repo-stalker) - [repo-stalker.com](http://repo-stalker.com/) - Loveable app for lurking on repos because GitHub search/chat so bad and got fed up waiting.
