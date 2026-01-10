@@ -2,6 +2,7 @@
 
 ### Some blogs/videos/projects
 
+- [claude-log-cleaner](https://github.com/andrewm4894/claude-log-cleaner) - Claude code plugin to clean your logs and scan for secrets.
 - [posthog-dev-pulumi](https://github.com/andrewm4894/posthog-dev-pulumi) - Pulumi dev vm setup for PostHog dev stuff.
 - [llm-council](https://github.com/andrewm4894/llm-council/tree/dev) - My fork, deployed here - https://llm-council-uc3k.onrender.com/ - of the [masters](https://github.com/karpathy/llm-council) llm-council app.
 - [PostHog/claude-code-share-plugin](https://github.com/PostHog/claude-code-share-plugin) - A claude code [plugin](https://docs.claude.com/en/docs/claude-code/plugins) that adds a `/share` comand to push your current session to a nice .md file in a repo so you can share it with someone. 
