@@ -2,6 +2,7 @@
 
 ### Some blogs/videos/projects
 
+- [Trace summarization](https://posthog.com/docs/llm-analytics/summarization) - LLM trace/generation summarization feature i built in PostHog.
 - [github-standup-agent](https://github.com/andrewm4894/github-standup-agent) - OpenAI Agents sdk based agent to do my daily slack standup based on GitHub activity.
 - [claude-log-cleaner](https://github.com/andrewm4894/claude-log-cleaner) - Claude code plugin to clean your logs and scan for secrets.
 - [posthog-dev-pulumi](https://github.com/andrewm4894/posthog-dev-pulumi) - Pulumi dev vm setup for PostHog dev stuff.
