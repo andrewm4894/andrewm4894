@@ -3,7 +3,7 @@
 ### Some blogs/videos/projects
 
 - [posthog-openclaw](https://github.com/PostHog/posthog-openclaw) - OpenClaw plugin i made for PostHog.
-- [Clusters](https://posthog.com/docs/llm-analytics/clusters) - LLM clustering feature/thingy i built in PostHog.
+- [Clusters](https://posthog.com/docs/llm-analytics/clusters) - LLM clustering feature/thingy i built in PostHog (bonus [blog post](https://posthog.com/blog/llm-analytics-clustering-how-it-works)).
 - [Trace summarization](https://posthog.com/docs/llm-analytics/summarization) - LLM trace/generation summarization feature i built in PostHog.
 - [github-standup-agent](https://github.com/andrewm4894/github-standup-agent) - OpenAI Agents sdk based agent to do my daily slack standup based on GitHub activity.
 - [claude-log-cleaner](https://github.com/andrewm4894/claude-log-cleaner) - Claude code plugin to clean your logs and scan for secrets.
