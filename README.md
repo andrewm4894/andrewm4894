@@ -2,6 +2,7 @@
 
 ### Some blogs/videos/projects
 
+- [LLM Analytics Sentiment](https://posthog.com/docs/llm-analytics/sentiment) - Good old sentiment classification on the user side of your generations.
 - [posthog-openclaw](https://github.com/PostHog/posthog-openclaw) - OpenClaw plugin i made for PostHog.
 - [Clusters](https://posthog.com/docs/llm-analytics/clusters) - LLM clustering feature/thingy i built in PostHog (bonus [blog post](https://posthog.com/blog/llm-analytics-clustering-how-it-works)).
 - [Trace summarization](https://posthog.com/docs/llm-analytics/summarization) - LLM trace/generation summarization feature i built in PostHog.
