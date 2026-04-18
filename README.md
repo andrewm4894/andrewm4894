@@ -2,6 +2,10 @@
 
 ### Some blogs/videos/projects
 
+- [hot-hog-bicycle](https://github.com/andrewm4894/hot-hog-bicycle) - Human vs AI hot dog SVG prompt battle - a little demo app i built for the AI Engineer Europe conference in London. [Live demo](https://hot-hog-app-production.up.railway.app).
+- [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin) - Added Claude Code integration for LLM analytics - pipe your Claude Code sessions into PostHog.
+- [PostHog/posthog-pi](https://github.com/PostHog/posthog-pi) - PostHog extension for the [pi](https://github.com/badlogic/pi-mono) coding agent - adds LLM analytics + a PostHog MCP bridge.
+- [I hate the standup bot (so I built an agent to do it for me)](https://posthog.com/blog/standup-bot-revenge) - Blog post on the [github-standup-agent](https://github.com/andrewm4894/github-standup-agent) and getting my revenge on the standup bot.
 - [LLM Analytics Sentiment](https://posthog.com/docs/llm-analytics/sentiment) - Good old sentiment classification on the user side of your generations.
 - [posthog-openclaw](https://github.com/PostHog/posthog-openclaw) - OpenClaw plugin i made for PostHog.
 - [Clusters](https://posthog.com/docs/llm-analytics/clusters) - LLM clustering feature/thingy i built in PostHog (bonus [blog post](https://posthog.com/blog/llm-analytics-clustering-how-it-works)).
