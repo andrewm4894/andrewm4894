@@ -2,6 +2,7 @@
 
 ### Some blogs/videos/projects
 
+- [PostHog Scouts](https://posthog.com/blog/what-is-a-scout) - Self driving thing i built at PostHog.
 - [hot-hog-bicycle](https://github.com/andrewm4894/hot-hog-bicycle) - Human vs AI hot dog SVG prompt battle - a little demo app i built for the AI Engineer Europe conference in London. [Live demo](https://hot-hog-app-production.up.railway.app).
 - [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin) - Added Claude Code integration for LLM analytics - pipe your Claude Code sessions into PostHog.
 - [PostHog/posthog-pi](https://github.com/PostHog/posthog-pi) - PostHog extension for the [pi](https://github.com/badlogic/pi-mono) coding agent - adds LLM analytics + a PostHog MCP bridge.
