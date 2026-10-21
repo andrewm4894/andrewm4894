@@ -2,6 +2,9 @@
 
 ### Some blogs/videos/projects
 
+- [How I use skills for everything](https://posthog.com/blog/how-i-use-skills-for-everything) - Blog post on how i use skills to keep context, track projects and get stuff done.
+- [6-7 loops we use every day to make PostHog self-driving](https://posthog.com/blog/self-driving-loops) - Some agent loops we use at PostHog to find issues, investigate them and turn them into fixes.
+- [Scouts](https://posthog.com/docs/self-driving/scouts) - Little agents i'm working on at PostHog.
 - [PostHog Scouts](https://posthog.com/blog/what-is-a-scout) - Self driving thing i built at PostHog.
 - [hot-hog-bicycle](https://github.com/andrewm4894/hot-hog-bicycle) - Human vs AI hot dog SVG prompt battle - a little demo app i built for the AI Engineer Europe conference in London. [Live demo](https://hot-hog-app-production.up.railway.app).
 - [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin) - Added Claude Code integration for LLM analytics - pipe your Claude Code sessions into PostHog.
